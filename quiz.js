@@ -2,7 +2,7 @@ const quizForm = document.querySelector(".quiz-form");
 const submitAnswerButton =  document.querySelector("#submit-answers-btn");
 const outputE1 = document.querySelector("#output");
 
-const correctAnswers = ["Yes", "Isosceles"];
+const correctAnswers = ["Yes", "Isosceles", "No", "Yes", "Yes"];
 
 function calculateScore(){
     let score=0;

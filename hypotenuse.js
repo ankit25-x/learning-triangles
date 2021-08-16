@@ -23,7 +23,7 @@ console.log(Number(sides[1].value));
 const lengthOfHypotenuse = Math.sqrt(sumOfSquares);
 console.log(lengthOfHypotenuse);
 
-outputEl.innerText = "The hypotenuse is= " +lengthOfHypotenuse; 
+outputEl.innerText = "The hypotenuse is = " +lengthOfHypotenuse; 
 }
 
 hypotenuseBtn.addEventListener("click", calculateHypotenuse);

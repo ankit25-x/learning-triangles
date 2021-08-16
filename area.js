@@ -17,7 +17,7 @@ const product = 0.5*(calculateProduct(Number(inputBase.value), Number(inputHeigh
 
 console.log(product);
 
-outputEl.innerText = "The area is = " +product;
+outputEl.innerText = "The Area of Triangle is = " +product;
 
 }
 
