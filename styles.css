@@ -17,6 +17,11 @@ h1{
     color: white;
 }
 
+p{
+    color: white;
+
+}
+
 .list-item-inline{
     display: grid;
     padding: 1rem 0.5rem;
@@ -44,6 +49,8 @@ h1{
     font-size: 5vh;
 
 }
+
+
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem;
